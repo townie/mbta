@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    </head>
+    <body>
+
+    		<div class="hello">
+    			<h1> My mbta app</h1>
+
+    		</div>
+
+
+    		<div class="testing out the location stuff">
+
+	 <p id="demo">Click the button to get your coordinates:</p>
+
+
+	<button onclick="getLocation()">Get stop</button>
+	<script>
+	window.onload = function(){
+		var x=document.getElementById("demo");
+	var userPosition;
+	getLocation();
+	}
+	function getLocation()
+	  {
+	  if (navigator.geolocation)
+	    {
+	    navigator.geolocation.getCurrentPosition(showPosition);
+	    }
+	  else{x.innerHTML="Geolocation is not supported by this browser.";}
+	  }
+	function showPosition(position)
+	  {
+	  x.innerHTML="Latitude: " + position.coords.latitude +
+	  "<br>Longitude: " + position.coords.longitude + "<br> This is the testing area";
+	  userPosition = position;
+	  }
+
+    var string = "www.mbta.com/key/" + position.coords.longitude + "/" + position.coords.latitude
+
+
+	</script>
+
+	http://realtime.mbta.com/developer/api/v1/stopsbylocation?api_key=<developer’s api
+key>&lat=<latitude>&lon=<longitude>
+
+
+
+
+
+<!-- http://realtime.mbta.com/developer/api/v1/stopsbyroute?api_key=<developer’s api
+key>&route=<GTFS-compatible route_id>  -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--This is the api call
+
+    			http://realtime.mbta.com/developer/api/v1/stopsbylocation?api_key=<developer’s api
+key>&lat=<latitude>&lon=<longitude>
+
+ -->
+
+
+
+
+
+
+
+
+    </body>
+</html>
