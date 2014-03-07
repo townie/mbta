@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Test</title>
+    <script  src="jquery.js"></script>
+  </head>
+
+  <body>
+    <h1>Get Your</h1>
+
+    <script type="text/javascript">
+
+        var isIE8 = window.XDomainRequest ? true : false;
+        var invocation = createCrossDomainRequest();
+        var url = 'http://webservices.nextbus.com/service/publicXMLFeed?command=predictions&a=mbta&stopId=2849&routeTag=93';
+
+        function createCrossDomainRequest(url, handler)
+        {
+            var request;
+            if (isIE8)
+            {
+                request = new window.XDomainRequest();
+            }
+            else
+            {
+
+                request = new XMLHttpRequest();
+                console.log('created the frist request');
+            }
+            return request;
+        }
+
+        function callOtherDomain()
+        {
+            if (invocation)
+            {
+                if(isIE8)
+                {
+                    invocation.onload = outputResult;
+                    invocation.open("GET", url, true);
+                    invocation.send();
+                }
+                else
+                {
+                    console.log('called other domain');
+                    invocation.open('GET', url, true);
+                    invocation.onreadystatechange = handler;
+                    invocation.send();
+                }
+            }
+            else
+            {
+                var text = "No Invocation TookPlace At All";
+                var textNode = document.createTextNode(text);
+                var textDiv = document.getElementById("textDiv");
+                textDiv.appendChild(textNode);
+            }
+        }
+
+        function handler(evtXHR)
+        {
+            if (invocation.readyState == 4)
+            {
+              console.log(invocation.readyState);
+              console.log(invocation.status);
+                if (invocation.status == 200)
+                {
+                    outputResult();
+                }
+                else
+                {
+                    console.log(invocation.status);
+                    alert("Invocation Errors Occured");
+                }
+            }
+        }
+
+        function outputResult()
+        {
+            var response = invocation.responseText;
+            var responseDoc = $.parseXML(response);
+            var $xml = $(responseDoc);
+            var predic = $xml.find('prediction');
+            var nextOccurance = predic.first();
+            $('#textDiv').html( nextOccurance.attr('minutes'));
+
+        }
+
+
+
+    </script>
+
+    <form id="controlsToInvoke" action="">
+        <p>
+            <input type="button" value="Get your bus" onclick="callOtherDomain()" />
+        </p>
+    </form>
+
+
+    <div id="textDiv">
+        The bus route needs to go here
+    </div>
+
+  </body>
+</html>

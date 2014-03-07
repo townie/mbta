@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Bus</title>
+    <script  src="jquery.js"></script>
+  </head>
+
+  <body>
+    <h1>Get Location</h1>
+
+    <script>
+    x = navigator.geolocation;
+
+    x.getCurrentPosition(success, failure);
+
+    function success(position) {
+      var mylat = position.coords.latitude;
+      var mylong = position.coords.longitude;
+
+      $('#lat').html(mylat);
+      $('#long').html(mylong);
+
+      $('input#long').val(mylong);
+      $('input#lat').val(mylat);
+
+    }
+
+    function failure() {
+      $('#lat').html("<p> DIDNT WORK </p>")
+    }
+
+
+
+</script>
+
+
+<div id="long"> <p>long</p> </div>
+<div id="lat"> <p>Lat</p></div>
+
+
+
+  <form action="/show_bus" method = "post">
+  <input type="text" name="long" id="long" />
+    <input type="text" name="lat" id="lat" />
+    <input type="submit" name="submit" />
+  </form>
+
+  </body>
+</html>

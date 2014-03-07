@@ -1,0 +1,3828 @@
+
+
+
+
+
+
+
+
+
+NEW DATA from @stops
+
+
+
+
+
+
+
+
+[
+  {
+    "stop_id": "6537",
+    "stop_name": "Washington St @ Essex St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "11",
+            "route_name": "11",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "22009796",
+                    "trip_name": "4:18 pm from City Point Bus Terminal to Bedford St @ Chauncy St",
+                    "sch_arr_dt": "1394055840",
+                    "sch_dep_dt": "1394055840"
+                  },
+                  {
+                    "trip_id": "22009792",
+                    "trip_name": "4:30 pm from City Point Bus Terminal to Bedford St @ Chauncy St",
+                    "sch_arr_dt": "1394056560",
+                    "sch_dep_dt": "1394056560"
+                  },
+                  {
+                    "trip_id": "22009798",
+                    "trip_name": "4:42 pm from City Point Bus Terminal to Bedford St @ Chauncy St",
+                    "sch_arr_dt": "1394057280",
+                    "sch_dep_dt": "1394057280"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "751",
+            "route_name": "SL4",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21892276",
+                    "trip_name": "4:28 pm from Dudley Station to Essex St @ Atlantic Ave",
+                    "sch_arr_dt": "1394055780",
+                    "sch_dep_dt": "1394055780"
+                  },
+                  {
+                    "trip_id": "21892277",
+                    "trip_name": "4:35 pm from Dudley Station to Essex St @ Atlantic Ave",
+                    "sch_arr_dt": "1394056200",
+                    "sch_dep_dt": "1394056200"
+                  },
+                  {
+                    "trip_id": "21892278",
+                    "trip_name": "4:46 pm from Dudley Station to Essex St @ Atlantic Ave",
+                    "sch_arr_dt": "1394056860",
+                    "sch_dep_dt": "1394056860"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "6567",
+    "stop_name": "Washington St @ Essex St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "749",
+            "route_name": "SL5",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21892255",
+                    "trip_name": "4:20 pm from Dudley Station to Temple Pl @ Washington St",
+                    "sch_arr_dt": "1394055240",
+                    "sch_dep_dt": "1394055240"
+                  },
+                  {
+                    "trip_id": "21892258",
+                    "trip_name": "4:25 pm from Dudley Station to Temple Pl @ Washington St",
+                    "sch_arr_dt": "1394055600",
+                    "sch_dep_dt": "1394055600"
+                  },
+                  {
+                    "trip_id": "21892253",
+                    "trip_name": "4:32 pm from Dudley Station to Temple Pl @ Washington St",
+                    "sch_arr_dt": "1394056020",
+                    "sch_dep_dt": "1394056020"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "place-chncl",
+    "stop_name": "Chinatown Station",
+    "mode": [
+      {
+        "route_type": "1",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "903_",
+            "route_name": "Orange Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21800211",
+                    "trip_name": "4:19 pm from Oak Grove Station - Orange Line to Forest Hills Orange Line",
+                    "sch_arr_dt": "1394055420",
+                    "sch_dep_dt": "1394055420"
+                  },
+                  {
+                    "trip_id": "21800367",
+                    "trip_name": "4:25 pm from Oak Grove Station - Orange Line to Forest Hills Orange Line",
+                    "sch_arr_dt": "1394055780",
+                    "sch_dep_dt": "1394055780"
+                  },
+                  {
+                    "trip_id": "21800347",
+                    "trip_name": "4:30 pm from Oak Grove Station - Orange Line to Forest Hills Orange Line",
+                    "sch_arr_dt": "1394056080",
+                    "sch_dep_dt": "1394056080"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21800316",
+                    "trip_name": "4:20 pm from Forest Hills Orange Line to Oak Grove Station - Orange Line",
+                    "sch_arr_dt": "1394055480",
+                    "sch_dep_dt": "1394055480"
+                  },
+                  {
+                    "trip_id": "21800317",
+                    "trip_name": "4:25 pm from Forest Hills Orange Line to Oak Grove Station - Orange Line",
+                    "sch_arr_dt": "1394055780",
+                    "sch_dep_dt": "1394055780"
+                  },
+                  {
+                    "trip_id": "21800318",
+                    "trip_name": "4:30 pm from Forest Hills Orange Line to Oak Grove Station - Orange Line",
+                    "sch_arr_dt": "1394056080",
+                    "sch_dep_dt": "1394056080"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "70019",
+    "stop_name": "Chinatown Station - Inbound",
+    "mode": [
+      {
+        "route_type": "1",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "903_",
+            "route_name": "Orange Line",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21800316",
+                    "trip_name": "4:20 pm from Forest Hills Orange Line to Oak Grove Station - Orange Line",
+                    "sch_arr_dt": "1394055480",
+                    "sch_dep_dt": "1394055480"
+                  },
+                  {
+                    "trip_id": "21800317",
+                    "trip_name": "4:25 pm from Forest Hills Orange Line to Oak Grove Station - Orange Line",
+                    "sch_arr_dt": "1394055780",
+                    "sch_dep_dt": "1394055780"
+                  },
+                  {
+                    "trip_id": "21800318",
+                    "trip_name": "4:30 pm from Forest Hills Orange Line to Oak Grove Station - Orange Line",
+                    "sch_arr_dt": "1394056080",
+                    "sch_dep_dt": "1394056080"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "70018",
+    "stop_name": "Chinatown Station - Outbound",
+    "mode": [
+      {
+        "route_type": "1",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "903_",
+            "route_name": "Orange Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21800211",
+                    "trip_name": "4:19 pm from Oak Grove Station - Orange Line to Forest Hills Orange Line",
+                    "sch_arr_dt": "1394055420",
+                    "sch_dep_dt": "1394055420"
+                  },
+                  {
+                    "trip_id": "21800367",
+                    "trip_name": "4:25 pm from Oak Grove Station - Orange Line to Forest Hills Orange Line",
+                    "sch_arr_dt": "1394055780",
+                    "sch_dep_dt": "1394055780"
+                  },
+                  {
+                    "trip_id": "21800347",
+                    "trip_name": "4:30 pm from Oak Grove Station - Orange Line to Forest Hills Orange Line",
+                    "sch_arr_dt": "1394056080",
+                    "sch_dep_dt": "1394056080"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "16537",
+    "stop_name": "Essex St @ Kingston St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "11",
+            "route_name": "11",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "22009785",
+                    "trip_name": "4:42 pm from Bedford St @ Chauncy St to City Point Bus Terminal",
+                    "sch_arr_dt": "1394055780",
+                    "sch_dep_dt": "1394055780"
+                  },
+                  {
+                    "trip_id": "22009795",
+                    "trip_name": "4:54 pm from Bedford St @ Chauncy St to City Point Bus Terminal",
+                    "sch_arr_dt": "1394056500",
+                    "sch_dep_dt": "1394056500"
+                  },
+                  {
+                    "trip_id": "22009810",
+                    "trip_name": "5:06 pm from Bedford St @ Chauncy St to City Point Bus Terminal",
+                    "sch_arr_dt": "1394057220",
+                    "sch_dep_dt": "1394057220"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "6542",
+    "stop_name": "Kneeland St @ Washington St",
+    "mode": [
+
+    ]
+  },
+  {
+    "stop_id": "6545",
+    "stop_name": "Washington St @ Kneeland St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "11",
+            "route_name": "11",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "22009796",
+                    "trip_name": "4:18 pm from City Point Bus Terminal to Bedford St @ Chauncy St",
+                    "sch_arr_dt": "1394055720",
+                    "sch_dep_dt": "1394055720"
+                  },
+                  {
+                    "trip_id": "22009792",
+                    "trip_name": "4:30 pm from City Point Bus Terminal to Bedford St @ Chauncy St",
+                    "sch_arr_dt": "1394056440",
+                    "sch_dep_dt": "1394056440"
+                  },
+                  {
+                    "trip_id": "22009798",
+                    "trip_name": "4:42 pm from City Point Bus Terminal to Bedford St @ Chauncy St",
+                    "sch_arr_dt": "1394057160",
+                    "sch_dep_dt": "1394057160"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "6555",
+    "stop_name": "Surface Artery @ Kneeland St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "501",
+            "route_name": "501",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21765095",
+                    "trip_name": "4:34 pm from Federal St @ Franklin St to Winship St @ Union St",
+                    "sch_arr_dt": "1394055660",
+                    "sch_dep_dt": "1394055660"
+                  },
+                  {
+                    "trip_id": "21765154",
+                    "trip_name": "4:42 pm from Federal St @ Franklin St to Winship St @ Union St",
+                    "sch_arr_dt": "1394056140",
+                    "sch_dep_dt": "1394056140"
+                  },
+                  {
+                    "trip_id": "21765054",
+                    "trip_name": "4:49 pm from Federal St @ Franklin St to Winship St @ Union St",
+                    "sch_arr_dt": "1394056560",
+                    "sch_dep_dt": "1394056560"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "504",
+            "route_name": "504",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21765156",
+                    "trip_name": "4:28 pm from Federal St @ Franklin St to Watertown Yard",
+                    "sch_arr_dt": "1394055240",
+                    "sch_dep_dt": "1394055240"
+                  },
+                  {
+                    "trip_id": "21765090",
+                    "trip_name": "4:39 pm from Federal St @ Franklin St to Watertown Yard",
+                    "sch_arr_dt": "1394055900",
+                    "sch_dep_dt": "1394055900"
+                  },
+                  {
+                    "trip_id": "21765033",
+                    "trip_name": "4:50 pm from Federal St @ Franklin St to Watertown Yard",
+                    "sch_arr_dt": "1394056560",
+                    "sch_dep_dt": "1394056560"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "505",
+            "route_name": "505",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21764764",
+                    "trip_name": "4:30 pm from Federal St @ Franklin St to Carter St opp Commuter Rail Station",
+                    "sch_arr_dt": "1394055360",
+                    "sch_dep_dt": "1394055360"
+                  },
+                  {
+                    "trip_id": "21764763",
+                    "trip_name": "4:45 pm from Federal St @ Franklin St to Carter St opp Commuter Rail Station",
+                    "sch_arr_dt": "1394056260",
+                    "sch_dep_dt": "1394056260"
+                  },
+                  {
+                    "trip_id": "21764765",
+                    "trip_name": "5:00 pm from Federal St @ Franklin St to Carter St opp Commuter Rail Station",
+                    "sch_arr_dt": "1394057160",
+                    "sch_dep_dt": "1394057160"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "553",
+            "route_name": "553",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21764510",
+                    "trip_name": "4:35 pm from Federal St @ Franklin St to South St @ Angelside St",
+                    "sch_arr_dt": "1394055600",
+                    "sch_dep_dt": "1394055600"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "554",
+            "route_name": "554",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21764525",
+                    "trip_name": "5:04 pm from Federal St @ Franklin St to Trapelo Rd @ Church St",
+                    "sch_arr_dt": "1394057400",
+                    "sch_dep_dt": "1394057400"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "556",
+            "route_name": "556",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21764552",
+                    "trip_name": "4:55 pm from Federal St @ Franklin St to Tomlin St @ Summit St",
+                    "sch_arr_dt": "1394056860",
+                    "sch_dep_dt": "1394056860"
+                  },
+                  {
+                    "trip_id": "21764523",
+                    "trip_name": "5:25 pm from Federal St @ Franklin St to Tomlin St @ Summit St",
+                    "sch_arr_dt": "1394058780",
+                    "sch_dep_dt": "1394058780"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "558",
+            "route_name": "558",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21764537",
+                    "trip_name": "4:45 pm from Federal St @ Franklin St to Riverside Sta",
+                    "sch_arr_dt": "1394056260",
+                    "sch_dep_dt": "1394056260"
+                  },
+                  {
+                    "trip_id": "21764576",
+                    "trip_name": "5:14 pm from Federal St @ Franklin St to Riverside Sta",
+                    "sch_arr_dt": "1394058180",
+                    "sch_dep_dt": "1394058180"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "16538",
+    "stop_name": "Bedford St @ Chauncy St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "11",
+            "route_name": "11",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "22009785",
+                    "trip_name": "4:42 pm from Bedford St @ Chauncy St to City Point Bus Terminal",
+                    "sch_arr_dt": "1394055720",
+                    "sch_dep_dt": "1394055720"
+                  },
+                  {
+                    "trip_id": "22009795",
+                    "trip_name": "4:54 pm from Bedford St @ Chauncy St to City Point Bus Terminal",
+                    "sch_arr_dt": "1394056440",
+                    "sch_dep_dt": "1394056440"
+                  },
+                  {
+                    "trip_id": "22009810",
+                    "trip_name": "5:06 pm from Bedford St @ Chauncy St to City Point Bus Terminal",
+                    "sch_arr_dt": "1394057160",
+                    "sch_dep_dt": "1394057160"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "22009786",
+                    "trip_name": "4:06 pm from City Point Bus Terminal to Bedford St @ Chauncy St",
+                    "sch_arr_dt": "1394055300",
+                    "sch_dep_dt": "1394055300"
+                  },
+                  {
+                    "trip_id": "22009796",
+                    "trip_name": "4:18 pm from City Point Bus Terminal to Bedford St @ Chauncy St",
+                    "sch_arr_dt": "1394056020",
+                    "sch_dep_dt": "1394056020"
+                  },
+                  {
+                    "trip_id": "22009792",
+                    "trip_name": "4:30 pm from City Point Bus Terminal to Bedford St @ Chauncy St",
+                    "sch_arr_dt": "1394056740",
+                    "sch_dep_dt": "1394056740"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "6550",
+    "stop_name": "Lincoln St @ Beach St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "501",
+            "route_name": "501",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21765241",
+                    "trip_name": "4:24 pm from Winship St @ Union St to Federal St @ Franklin St",
+                    "sch_arr_dt": "1394056020",
+                    "sch_dep_dt": "1394056020"
+                  },
+                  {
+                    "trip_id": "21765044",
+                    "trip_name": "4:37 pm from Winship St @ Union St to Federal St @ Franklin St",
+                    "sch_arr_dt": "1394056800",
+                    "sch_dep_dt": "1394056800"
+                  },
+                  {
+                    "trip_id": "21765152",
+                    "trip_name": "5:00 pm from Winship St @ Union St to Federal St @ Franklin St",
+                    "sch_arr_dt": "1394058360",
+                    "sch_dep_dt": "1394058360"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "504",
+            "route_name": "504",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21765132",
+                    "trip_name": "4:13 pm from Watertown Yard to Federal St @ Franklin St",
+                    "sch_arr_dt": "1394055360",
+                    "sch_dep_dt": "1394055360"
+                  },
+                  {
+                    "trip_id": "21765165",
+                    "trip_name": "4:25 pm from Watertown Yard to Federal St @ Franklin St",
+                    "sch_arr_dt": "1394056080",
+                    "sch_dep_dt": "1394056080"
+                  },
+                  {
+                    "trip_id": "21765081",
+                    "trip_name": "4:38 pm from Watertown Yard to Federal St @ Franklin St",
+                    "sch_arr_dt": "1394056860",
+                    "sch_dep_dt": "1394056860"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "505",
+            "route_name": "505",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21764446",
+                    "trip_name": "4:30 pm from Carter St opp Commuter Rail Station to Federal St @ Franklin St",
+                    "sch_arr_dt": "1394056800",
+                    "sch_dep_dt": "1394056800"
+                  },
+                  {
+                    "trip_id": "21764449",
+                    "trip_name": "4:53 pm from Carter St opp Commuter Rail Station to Federal St @ Franklin St",
+                    "sch_arr_dt": "1394058180",
+                    "sch_dep_dt": "1394058180"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "553",
+            "route_name": "553",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21764536",
+                    "trip_name": "3:45 pm from South St @ Angelside St to Federal St @ Franklin St",
+                    "sch_arr_dt": "1394055420",
+                    "sch_dep_dt": "1394055420"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "554",
+            "route_name": "554",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21764522",
+                    "trip_name": "4:15 pm from Trapelo Rd @ Church St to Federal St @ Franklin St",
+                    "sch_arr_dt": "1394057160",
+                    "sch_dep_dt": "1394057160"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "556",
+            "route_name": "556",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21764575",
+                    "trip_name": "4:15 pm from Tomlin St @ Summit St to Federal St @ Franklin St",
+                    "sch_arr_dt": "1394056680",
+                    "sch_dep_dt": "1394056680"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "558",
+            "route_name": "558",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21764585",
+                    "trip_name": "4:48 pm from Riverside Sta to Federal St @ Franklin St",
+                    "sch_arr_dt": "1394058780",
+                    "sch_dep_dt": "1394058780"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "91856",
+    "stop_name": "Stuart St @ Tremont St",
+    "mode": [
+
+    ]
+  },
+  {
+    "stop_id": "8279",
+    "stop_name": "Tremont St opp Avery St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "43",
+            "route_name": "43",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "22010669",
+                    "trip_name": "4:43 pm from Tremont St opp Winter St to Ruggles Station - Lane 2",
+                    "sch_arr_dt": "1394055900",
+                    "sch_dep_dt": "1394055900"
+                  },
+                  {
+                    "trip_id": "22010706",
+                    "trip_name": "4:55 pm from Tremont St opp Winter St to Ruggles Station - Lane 2",
+                    "sch_arr_dt": "1394056620",
+                    "sch_dep_dt": "1394056620"
+                  },
+                  {
+                    "trip_id": "22010665",
+                    "trip_name": "5:10 pm from Tremont St opp Winter St to Ruggles Station - Lane 2",
+                    "sch_arr_dt": "1394057520",
+                    "sch_dep_dt": "1394057520"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "55",
+            "route_name": "55",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "22008221",
+                    "trip_name": "4:51 pm from Tremont St opp Winter St to Queensberry St @ Jersey St",
+                    "sch_arr_dt": "1394056380",
+                    "sch_dep_dt": "1394056380"
+                  },
+                  {
+                    "trip_id": "22008186",
+                    "trip_name": "5:21 pm from Tremont St opp Winter St to Queensberry St @ Jersey St",
+                    "sch_arr_dt": "1394058180",
+                    "sch_dep_dt": "1394058180"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "749",
+            "route_name": "SL5",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21892337",
+                    "trip_name": "4:36 pm from Temple Pl @ Washington St to Dudley Station",
+                    "sch_arr_dt": "1394055420",
+                    "sch_dep_dt": "1394055420"
+                  },
+                  {
+                    "trip_id": "21892333",
+                    "trip_name": "4:43 pm from Temple Pl @ Washington St to Dudley Station",
+                    "sch_arr_dt": "1394055840",
+                    "sch_dep_dt": "1394055840"
+                  },
+                  {
+                    "trip_id": "21892329",
+                    "trip_name": "4:48 pm from Temple Pl @ Washington St to Dudley Station",
+                    "sch_arr_dt": "1394056140",
+                    "sch_dep_dt": "1394056140"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "70158",
+    "stop_name": "Boylston Station - Inbound",
+    "mode": [
+      {
+        "route_type": "0",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "812_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21610746",
+                    "trip_name": "3:49 pm from Boston College Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394055240",
+                    "sch_dep_dt": "1394055240"
+                  },
+                  {
+                    "trip_id": "21610750",
+                    "trip_name": "3:54 pm from Boston College Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394055540",
+                    "sch_dep_dt": "1394055540"
+                  },
+                  {
+                    "trip_id": "21611622",
+                    "trip_name": "4:00 pm from Boston College Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394055900",
+                    "sch_dep_dt": "1394055900"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "831_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21610870",
+                    "trip_name": "4:08 pm from Cleveland Circle Platform - Inbound to North Station - Green Line Outbound",
+                    "sch_arr_dt": "1394055540",
+                    "sch_dep_dt": "1394055540"
+                  },
+                  {
+                    "trip_id": "21610874",
+                    "trip_name": "4:14 pm from Cleveland Circle Platform - Inbound to North Station - Green Line Outbound",
+                    "sch_arr_dt": "1394055900",
+                    "sch_dep_dt": "1394055900"
+                  },
+                  {
+                    "trip_id": "21610879",
+                    "trip_name": "4:21 pm from Cleveland Circle Platform - Inbound to North Station - Green Line Outbound",
+                    "sch_arr_dt": "1394056320",
+                    "sch_dep_dt": "1394056320"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "852_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21611803",
+                    "trip_name": "3:55 pm from Riverside Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394055240",
+                    "sch_dep_dt": "1394055240"
+                  },
+                  {
+                    "trip_id": "21611804",
+                    "trip_name": "4:00 pm from Riverside Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394055540",
+                    "sch_dep_dt": "1394055540"
+                  },
+                  {
+                    "trip_id": "21611805",
+                    "trip_name": "4:06 pm from Riverside Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394055900",
+                    "sch_dep_dt": "1394055900"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "880_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21612723",
+                    "trip_name": "4:15 pm from Heath St Platform - Green Line E to Lechmere - Green Line",
+                    "sch_arr_dt": "1394055300",
+                    "sch_dep_dt": "1394055300"
+                  },
+                  {
+                    "trip_id": "21612747",
+                    "trip_name": "4:22 pm from Heath St Platform - Green Line E to Lechmere - Green Line",
+                    "sch_arr_dt": "1394055720",
+                    "sch_dep_dt": "1394055720"
+                  },
+                  {
+                    "trip_id": "21612753",
+                    "trip_name": "4:29 pm from Heath St Platform - Green Line E to Lechmere - Green Line",
+                    "sch_arr_dt": "1394056140",
+                    "sch_dep_dt": "1394056140"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "place-boyls",
+    "stop_name": "Boylston Station",
+    "mode": [
+      {
+        "route_type": "0",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "812_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Westbound",
+                "trip": [
+                  {
+                    "trip_id": "21610640",
+                    "trip_name": "4:34 pm from Government Center Station - Green Line Westbound to Boston College Station - Green Line",
+                    "sch_arr_dt": "1394055480",
+                    "sch_dep_dt": "1394055480"
+                  },
+                  {
+                    "trip_id": "21611274",
+                    "trip_name": "4:38 pm from Government Center Station - Green Line Westbound to Boston College Station - Green Line",
+                    "sch_arr_dt": "1394055720",
+                    "sch_dep_dt": "1394055720"
+                  },
+                  {
+                    "trip_id": "21611275",
+                    "trip_name": "4:46 pm from Government Center Station - Green Line Westbound to Boston College Station - Green Line",
+                    "sch_arr_dt": "1394056200",
+                    "sch_dep_dt": "1394056200"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21610746",
+                    "trip_name": "3:49 pm from Boston College Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394055240",
+                    "sch_dep_dt": "1394055240"
+                  },
+                  {
+                    "trip_id": "21610750",
+                    "trip_name": "3:54 pm from Boston College Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394055540",
+                    "sch_dep_dt": "1394055540"
+                  },
+                  {
+                    "trip_id": "21611622",
+                    "trip_name": "4:00 pm from Boston College Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394055900",
+                    "sch_dep_dt": "1394055900"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "831_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Westbound",
+                "trip": [
+                  {
+                    "trip_id": "21610910",
+                    "trip_name": "4:26 pm from North Station - Green Line Inbound to Cleveland Circle Platform",
+                    "sch_arr_dt": "1394055360",
+                    "sch_dep_dt": "1394055360"
+                  },
+                  {
+                    "trip_id": "21610911",
+                    "trip_name": "4:33 pm from North Station - Green Line Inbound to Cleveland Circle Platform",
+                    "sch_arr_dt": "1394055780",
+                    "sch_dep_dt": "1394055780"
+                  },
+                  {
+                    "trip_id": "21610912",
+                    "trip_name": "4:39 pm from North Station - Green Line Inbound to Cleveland Circle Platform",
+                    "sch_arr_dt": "1394056140",
+                    "sch_dep_dt": "1394056140"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21610870",
+                    "trip_name": "4:08 pm from Cleveland Circle Platform - Inbound to North Station - Green Line Outbound",
+                    "sch_arr_dt": "1394055540",
+                    "sch_dep_dt": "1394055540"
+                  },
+                  {
+                    "trip_id": "21610874",
+                    "trip_name": "4:14 pm from Cleveland Circle Platform - Inbound to North Station - Green Line Outbound",
+                    "sch_arr_dt": "1394055900",
+                    "sch_dep_dt": "1394055900"
+                  },
+                  {
+                    "trip_id": "21610879",
+                    "trip_name": "4:21 pm from Cleveland Circle Platform - Inbound to North Station - Green Line Outbound",
+                    "sch_arr_dt": "1394056320",
+                    "sch_dep_dt": "1394056320"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "852_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Westbound",
+                "trip": [
+                  {
+                    "trip_id": "21611871",
+                    "trip_name": "4:34 pm from Government Center Station - Green Line Westbound to Riverside Station - Green Line",
+                    "sch_arr_dt": "1394055480",
+                    "sch_dep_dt": "1394055480"
+                  },
+                  {
+                    "trip_id": "21611872",
+                    "trip_name": "4:40 pm from Government Center Station - Green Line Westbound to Riverside Station - Green Line",
+                    "sch_arr_dt": "1394055840",
+                    "sch_dep_dt": "1394055840"
+                  },
+                  {
+                    "trip_id": "21611839",
+                    "trip_name": "4:45 pm from Government Center Station - Green Line Westbound to Riverside Station - Green Line",
+                    "sch_arr_dt": "1394056140",
+                    "sch_dep_dt": "1394056140"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21611803",
+                    "trip_name": "3:55 pm from Riverside Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394055240",
+                    "sch_dep_dt": "1394055240"
+                  },
+                  {
+                    "trip_id": "21611804",
+                    "trip_name": "4:00 pm from Riverside Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394055540",
+                    "sch_dep_dt": "1394055540"
+                  },
+                  {
+                    "trip_id": "21611805",
+                    "trip_name": "4:06 pm from Riverside Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394055900",
+                    "sch_dep_dt": "1394055900"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "880_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Westbound",
+                "trip": [
+                  {
+                    "trip_id": "21612580",
+                    "trip_name": "4:25 pm from Lechmere - Green Line Inbound to Heath St Platform - Green Line E",
+                    "sch_arr_dt": "1394055480",
+                    "sch_dep_dt": "1394055480"
+                  },
+                  {
+                    "trip_id": "21612609",
+                    "trip_name": "4:30 pm from Lechmere - Green Line Inbound to Heath St Platform - Green Line E",
+                    "sch_arr_dt": "1394055780",
+                    "sch_dep_dt": "1394055780"
+                  },
+                  {
+                    "trip_id": "21612633",
+                    "trip_name": "4:35 pm from Lechmere - Green Line Inbound to Heath St Platform - Green Line E",
+                    "sch_arr_dt": "1394056080",
+                    "sch_dep_dt": "1394056080"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21612723",
+                    "trip_name": "4:15 pm from Heath St Platform - Green Line E to Lechmere - Green Line",
+                    "sch_arr_dt": "1394055300",
+                    "sch_dep_dt": "1394055300"
+                  },
+                  {
+                    "trip_id": "21612747",
+                    "trip_name": "4:22 pm from Heath St Platform - Green Line E to Lechmere - Green Line",
+                    "sch_arr_dt": "1394055720",
+                    "sch_dep_dt": "1394055720"
+                  },
+                  {
+                    "trip_id": "21612753",
+                    "trip_name": "4:29 pm from Heath St Platform - Green Line E to Lechmere - Green Line",
+                    "sch_arr_dt": "1394056140",
+                    "sch_dep_dt": "1394056140"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+NEW DATA from @results
+
+
+
+
+
+
+
+
+[
+  {
+    "stop_id": "6537",
+    "stop_name": "Washington St @ Essex St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3522872924805",
+    "stop_lon": "-71.0625839233398",
+    "distance": "0.0826700478792191"
+  },
+  {
+    "stop_id": "6567",
+    "stop_name": "Washington St @ Essex St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3524627685547",
+    "stop_lon": "-71.0625534057617",
+    "distance": "0.0872135013341904"
+  },
+  {
+    "stop_id": "place-chncl",
+    "stop_name": "Chinatown Station",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3525466918945",
+    "stop_lon": "-71.0627517700195",
+    "distance": "0.0988625511527061"
+  },
+  {
+    "stop_id": "70019",
+    "stop_name": "Chinatown Station - Inbound",
+    "parent_station": "place-chncl",
+    "parent_station_name": "Chinatown Station",
+    "stop_lat": "42.3525466918945",
+    "stop_lon": "-71.0627517700195",
+    "distance": "0.0988625511527061"
+  },
+  {
+    "stop_id": "70018",
+    "stop_name": "Chinatown Station - Outbound",
+    "parent_station": "place-chncl",
+    "parent_station_name": "Chinatown Station",
+    "stop_lat": "42.3525466918945",
+    "stop_lon": "-71.0627517700195",
+    "distance": "0.0988625511527061"
+  },
+  {
+    "stop_id": "16537",
+    "stop_name": "Essex St @ Kingston St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3524360656738",
+    "stop_lon": "-71.0592422485352",
+    "distance": "0.106068976223469"
+  },
+  {
+    "stop_id": "6542",
+    "stop_name": "Kneeland St @ Washington St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3508453369141",
+    "stop_lon": "-71.0628662109375",
+    "distance": "0.109914511442184"
+  },
+  {
+    "stop_id": "6545",
+    "stop_name": "Washington St @ Kneeland St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3508224487305",
+    "stop_lon": "-71.0630187988281",
+    "distance": "0.117201305925846"
+  },
+  {
+    "stop_id": "6555",
+    "stop_name": "Surface Artery @ Kneeland St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3503150939941",
+    "stop_lon": "-71.059700012207",
+    "distance": "0.124192200601101"
+  },
+  {
+    "stop_id": "16538",
+    "stop_name": "Bedford St @ Chauncy St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3532638549805",
+    "stop_lon": "-71.0596466064453",
+    "distance": "0.127283558249474"
+  },
+  {
+    "stop_id": "6550",
+    "stop_name": "Lincoln St @ Beach St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3509635925293",
+    "stop_lon": "-71.0584564208984",
+    "distance": "0.147013083100319"
+  },
+  {
+    "stop_id": "91856",
+    "stop_name": "Stuart St @ Tremont St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3511352539063",
+    "stop_lon": "-71.0647659301758",
+    "distance": "0.191300302743912"
+  },
+  {
+    "stop_id": "8279",
+    "stop_name": "Tremont St opp Avery St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3532485961914",
+    "stop_lon": "-71.0643539428711",
+    "distance": "0.19388535618782"
+  },
+  {
+    "stop_id": "70158",
+    "stop_name": "Boylston Station - Inbound",
+    "parent_station": "place-boyls",
+    "parent_station_name": "Boylston Station",
+    "stop_lat": "42.3530197143555",
+    "stop_lon": "-71.0645904541016",
+    "distance": "0.196870341897011"
+  },
+  {
+    "stop_id": "place-boyls",
+    "stop_name": "Boylston Station",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3530197143555",
+    "stop_lon": "-71.0645904541016",
+    "distance": "0.196870341897011"
+  }
+]
+
+
+
+
+
+
+
+
+NEW DATA from @stops
+
+
+
+
+
+
+
+
+[
+  {
+    "stop_id": "2863",
+    "stop_name": "Bunker Hill St @ Pearl St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "93",
+            "route_name": "93",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21758192",
+                    "trip_name": "4:53 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394057400",
+                    "sch_dep_dt": "1394057400"
+                  },
+                  {
+                    "trip_id": "21758215",
+                    "trip_name": "5:01 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394058000",
+                    "sch_dep_dt": "1394058000"
+                  },
+                  {
+                    "trip_id": "21758259",
+                    "trip_name": "5:10 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394058540",
+                    "sch_dep_dt": "1394058540"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "2849",
+    "stop_name": "Bunker Hill St @ School St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "93",
+            "route_name": "93",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21758149",
+                    "trip_name": "5:10 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394057580",
+                    "sch_dep_dt": "1394057580"
+                  },
+                  {
+                    "trip_id": "21758188",
+                    "trip_name": "5:18 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394058060",
+                    "sch_dep_dt": "1394058060"
+                  },
+                  {
+                    "trip_id": "21758194",
+                    "trip_name": "5:26 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394058540",
+                    "sch_dep_dt": "1394058540"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "2848",
+    "stop_name": "Bunker Hill St @ Sullivan St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "93",
+            "route_name": "93",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21758149",
+                    "trip_name": "5:10 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394057580",
+                    "sch_dep_dt": "1394057580"
+                  },
+                  {
+                    "trip_id": "21758188",
+                    "trip_name": "5:18 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394058060",
+                    "sch_dep_dt": "1394058060"
+                  },
+                  {
+                    "trip_id": "21758194",
+                    "trip_name": "5:26 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394058540",
+                    "sch_dep_dt": "1394058540"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "2864",
+    "stop_name": "Bunker Hill St @ Sackville St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "93",
+            "route_name": "93",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21758192",
+                    "trip_name": "4:53 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394057400",
+                    "sch_dep_dt": "1394057400"
+                  },
+                  {
+                    "trip_id": "21758215",
+                    "trip_name": "5:01 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394058000",
+                    "sch_dep_dt": "1394058000"
+                  },
+                  {
+                    "trip_id": "21758259",
+                    "trip_name": "5:10 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394058540",
+                    "sch_dep_dt": "1394058540"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "2862",
+    "stop_name": "Bunker Hill St @ Polk St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "93",
+            "route_name": "93",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21758215",
+                    "trip_name": "5:01 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394057940",
+                    "sch_dep_dt": "1394057940"
+                  },
+                  {
+                    "trip_id": "21758259",
+                    "trip_name": "5:10 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394058480",
+                    "sch_dep_dt": "1394058480"
+                  },
+                  {
+                    "trip_id": "21758276",
+                    "trip_name": "5:17 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394058840",
+                    "sch_dep_dt": "1394058840"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "2850",
+    "stop_name": "Bunker Hill St @ Concord St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "93",
+            "route_name": "93",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21758149",
+                    "trip_name": "5:10 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394057640",
+                    "sch_dep_dt": "1394057640"
+                  },
+                  {
+                    "trip_id": "21758188",
+                    "trip_name": "5:18 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394058120",
+                    "sch_dep_dt": "1394058120"
+                  },
+                  {
+                    "trip_id": "21758194",
+                    "trip_name": "5:26 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394058600",
+                    "sch_dep_dt": "1394058600"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "2847",
+    "stop_name": "Bunker Hill St @ Clarken Ct",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "93",
+            "route_name": "93",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21758149",
+                    "trip_name": "5:10 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394057520",
+                    "sch_dep_dt": "1394057520"
+                  },
+                  {
+                    "trip_id": "21758188",
+                    "trip_name": "5:18 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394058000",
+                    "sch_dep_dt": "1394058000"
+                  },
+                  {
+                    "trip_id": "21758194",
+                    "trip_name": "5:26 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394058480",
+                    "sch_dep_dt": "1394058480"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "2865",
+    "stop_name": "Bunker Hill St @ N Mead St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "93",
+            "route_name": "93",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21758192",
+                    "trip_name": "4:53 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394057460",
+                    "sch_dep_dt": "1394057460"
+                  },
+                  {
+                    "trip_id": "21758215",
+                    "trip_name": "5:01 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394058060",
+                    "sch_dep_dt": "1394058060"
+                  },
+                  {
+                    "trip_id": "21758259",
+                    "trip_name": "5:10 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394058600",
+                    "sch_dep_dt": "1394058600"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "2861",
+    "stop_name": "121 Bunker Hill St opp Lexington St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "93",
+            "route_name": "93",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21758215",
+                    "trip_name": "5:01 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394057880",
+                    "sch_dep_dt": "1394057880"
+                  },
+                  {
+                    "trip_id": "21758259",
+                    "trip_name": "5:10 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394058420",
+                    "sch_dep_dt": "1394058420"
+                  },
+                  {
+                    "trip_id": "21758276",
+                    "trip_name": "5:17 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394058840",
+                    "sch_dep_dt": "1394058840"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "2837",
+    "stop_name": "Main St @ School St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "92",
+            "route_name": "92",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21758108",
+                    "trip_name": "4:54 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394057400",
+                    "sch_dep_dt": "1394057400"
+                  },
+                  {
+                    "trip_id": "21758124",
+                    "trip_name": "5:09 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394058420",
+                    "sch_dep_dt": "1394058420"
+                  },
+                  {
+                    "trip_id": "21758055",
+                    "trip_name": "5:24 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394059200",
+                    "sch_dep_dt": "1394059200"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "2838",
+    "stop_name": "Main St @ Walker St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "92",
+            "route_name": "92",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21758108",
+                    "trip_name": "4:54 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394057460",
+                    "sch_dep_dt": "1394057460"
+                  },
+                  {
+                    "trip_id": "21758124",
+                    "trip_name": "5:09 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394058480",
+                    "sch_dep_dt": "1394058480"
+                  },
+                  {
+                    "trip_id": "21758055",
+                    "trip_name": "5:24 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394059260",
+                    "sch_dep_dt": "1394059260"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "2824",
+    "stop_name": "Main St @ Dunstable St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "92",
+            "route_name": "92",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21758081",
+                    "trip_name": "5:15 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394057820",
+                    "sch_dep_dt": "1394057820"
+                  },
+                  {
+                    "trip_id": "21758102",
+                    "trip_name": "5:30 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394058720",
+                    "sch_dep_dt": "1394058720"
+                  },
+                  {
+                    "trip_id": "21758123",
+                    "trip_name": "5:45 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394059620",
+                    "sch_dep_dt": "1394059620"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "2851",
+    "stop_name": "Bunker Hill St @ Ferrin St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "93",
+            "route_name": "93",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21758149",
+                    "trip_name": "5:10 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394057640",
+                    "sch_dep_dt": "1394057640"
+                  },
+                  {
+                    "trip_id": "21758188",
+                    "trip_name": "5:18 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394058120",
+                    "sch_dep_dt": "1394058120"
+                  },
+                  {
+                    "trip_id": "21758194",
+                    "trip_name": "5:26 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394058600",
+                    "sch_dep_dt": "1394058600"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "2825",
+    "stop_name": "Main St @ W School St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "92",
+            "route_name": "92",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21758081",
+                    "trip_name": "5:15 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394057880",
+                    "sch_dep_dt": "1394057880"
+                  },
+                  {
+                    "trip_id": "21758102",
+                    "trip_name": "5:30 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394058780",
+                    "sch_dep_dt": "1394058780"
+                  },
+                  {
+                    "trip_id": "21758123",
+                    "trip_name": "5:45 pm from Sullivan Station - Lower Busway to Franklin St @ Washington St",
+                    "sch_arr_dt": "1394059680",
+                    "sch_dep_dt": "1394059680"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "2866",
+    "stop_name": "Bunker Hill St @ St Martin St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "93",
+            "route_name": "93",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21758192",
+                    "trip_name": "4:53 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394057520",
+                    "sch_dep_dt": "1394057520"
+                  },
+                  {
+                    "trip_id": "21758215",
+                    "trip_name": "5:01 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394058120",
+                    "sch_dep_dt": "1394058120"
+                  },
+                  {
+                    "trip_id": "21758259",
+                    "trip_name": "5:10 pm from Franklin St @ Washington St to Sullivan Station - Upper Busway",
+                    "sch_arr_dt": "1394058660",
+                    "sch_dep_dt": "1394058660"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+NEW DATA from @results
+
+
+
+
+
+
+
+
+[
+  {
+    "stop_id": "2863",
+    "stop_name": "Bunker Hill St @ Pearl St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3794097900391",
+    "stop_lon": "-71.0635070800781",
+    "distance": "0.0395413748919964"
+  },
+  {
+    "stop_id": "2849",
+    "stop_name": "Bunker Hill St @ School St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3790550231934",
+    "stop_lon": "-71.06298828125",
+    "distance": "0.0611035078763962"
+  },
+  {
+    "stop_id": "2848",
+    "stop_name": "Bunker Hill St @ Sullivan St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3798713684082",
+    "stop_lon": "-71.0646362304688",
+    "distance": "0.074437789618969"
+  },
+  {
+    "stop_id": "2864",
+    "stop_name": "Bunker Hill St @ Sackville St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3802719116211",
+    "stop_lon": "-71.0652008056641",
+    "distance": "0.105821587145329"
+  },
+  {
+    "stop_id": "2862",
+    "stop_name": "Bunker Hill St @ Polk St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3786277770996",
+    "stop_lon": "-71.0614395141602",
+    "distance": "0.126263782382011"
+  },
+  {
+    "stop_id": "2850",
+    "stop_name": "Bunker Hill St @ Concord St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3782844543457",
+    "stop_lon": "-71.0607757568359",
+    "distance": "0.167090326547623"
+  },
+  {
+    "stop_id": "2847",
+    "stop_name": "Bunker Hill St @ Clarken Ct",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3808784484863",
+    "stop_lon": "-71.0666351318359",
+    "distance": "0.18810261785984"
+  },
+  {
+    "stop_id": "2865",
+    "stop_name": "Bunker Hill St @ N Mead St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3811378479004",
+    "stop_lon": "-71.0669555664063",
+    "distance": "0.209960907697678"
+  },
+  {
+    "stop_id": "2861",
+    "stop_name": "121 Bunker Hill St opp Lexington St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3780555725098",
+    "stop_lon": "-71.0597305297852",
+    "distance": "0.218342855572701"
+  },
+  {
+    "stop_id": "2837",
+    "stop_name": "Main St @ School St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3766784667969",
+    "stop_lon": "-71.0659332275391",
+    "distance": "0.264784932136536"
+  },
+  {
+    "stop_id": "2838",
+    "stop_name": "Main St @ Walker St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3783416748047",
+    "stop_lon": "-71.0679168701172",
+    "distance": "0.26536551117897"
+  },
+  {
+    "stop_id": "2824",
+    "stop_name": "Main St @ Dunstable St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3780746459961",
+    "stop_lon": "-71.0677947998047",
+    "distance": "0.268010079860687"
+  },
+  {
+    "stop_id": "2851",
+    "stop_name": "Bunker Hill St @ Ferrin St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3776550292969",
+    "stop_lon": "-71.0588760375977",
+    "distance": "0.269868940114975"
+  },
+  {
+    "stop_id": "2825",
+    "stop_name": "Main St @ W School St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3763999938965",
+    "stop_lon": "-71.0657348632813",
+    "distance": "0.276354432106018"
+  },
+  {
+    "stop_id": "2866",
+    "stop_name": "Bunker Hill St @ St Martin St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3818511962891",
+    "stop_lon": "-71.0683898925781",
+    "distance": "0.297116696834564"
+  }
+]
+
+
+
+
+
+
+
+
+NEW DATA from @stops
+
+
+
+
+
+
+
+
+[
+  {
+    "stop_id": "49001",
+    "stop_name": "Temple Pl @ Washington St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "749",
+            "route_name": "SL5",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21892177",
+                    "trip_name": "11:20 am from Temple Pl @ Washington St to Dudley Station",
+                    "sch_arr_dt": "1394122800",
+                    "sch_dep_dt": "1394122800"
+                  },
+                  {
+                    "trip_id": "21892181",
+                    "trip_name": "11:26 am from Temple Pl @ Washington St to Dudley Station",
+                    "sch_arr_dt": "1394123160",
+                    "sch_dep_dt": "1394123160"
+                  },
+                  {
+                    "trip_id": "21892164",
+                    "trip_name": "11:35 am from Temple Pl @ Washington St to Dudley Station",
+                    "sch_arr_dt": "1394123700",
+                    "sch_dep_dt": "1394123700"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21892131",
+                    "trip_name": "11:04 am from Dudley Station to Temple Pl @ Washington St",
+                    "sch_arr_dt": "1394122920",
+                    "sch_dep_dt": "1394122920"
+                  },
+                  {
+                    "trip_id": "21892132",
+                    "trip_name": "11:13 am from Dudley Station to Temple Pl @ Washington St",
+                    "sch_arr_dt": "1394123460",
+                    "sch_dep_dt": "1394123460"
+                  },
+                  {
+                    "trip_id": "21892133",
+                    "trip_name": "11:24 am from Dudley Station to Temple Pl @ Washington St",
+                    "sch_arr_dt": "1394124120",
+                    "sch_dep_dt": "1394124120"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "70200",
+    "stop_name": "Park St Station - Green Line Eastbound",
+    "mode": [
+      {
+        "route_type": "0",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "812_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21610738",
+                    "trip_name": "10:39 am from Boston College Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394122800",
+                    "sch_dep_dt": "1394122800"
+                  },
+                  {
+                    "trip_id": "21610743",
+                    "trip_name": "10:47 am from Boston College Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394123280",
+                    "sch_dep_dt": "1394123280"
+                  },
+                  {
+                    "trip_id": "21610747",
+                    "trip_name": "10:56 am from Boston College Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394123820",
+                    "sch_dep_dt": "1394123820"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "831_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21611121",
+                    "trip_name": "10:50 am from Cleveland Circle Platform - Inbound to North Station - Green Line Outbound",
+                    "sch_arr_dt": "1394122920",
+                    "sch_dep_dt": "1394122920"
+                  },
+                  {
+                    "trip_id": "21611119",
+                    "trip_name": "11:00 am from Cleveland Circle Platform - Inbound to North Station - Green Line Outbound",
+                    "sch_arr_dt": "1394123520",
+                    "sch_dep_dt": "1394123520"
+                  },
+                  {
+                    "trip_id": "21611118",
+                    "trip_name": "11:10 am from Cleveland Circle Platform - Inbound to North Station - Green Line Outbound",
+                    "sch_arr_dt": "1394124120",
+                    "sch_dep_dt": "1394124120"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "852_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21611180",
+                    "trip_name": "10:45 am from Riverside Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394122980",
+                    "sch_dep_dt": "1394122980"
+                  },
+                  {
+                    "trip_id": "21611181",
+                    "trip_name": "10:55 am from Riverside Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394123580",
+                    "sch_dep_dt": "1394123580"
+                  },
+                  {
+                    "trip_id": "21611182",
+                    "trip_name": "11:06 am from Riverside Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394124240",
+                    "sch_dep_dt": "1394124240"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "880_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21612408",
+                    "trip_name": "10:57 am from Heath St Platform - Green Line E to Lechmere - Green Line",
+                    "sch_arr_dt": "1394122620",
+                    "sch_dep_dt": "1394122620"
+                  },
+                  {
+                    "trip_id": "21612440",
+                    "trip_name": "11:05 am from Heath St Platform - Green Line E to Lechmere - Green Line",
+                    "sch_arr_dt": "1394123100",
+                    "sch_dep_dt": "1394123100"
+                  },
+                  {
+                    "trip_id": "21612486",
+                    "trip_name": "11:13 am from Heath St Platform - Green Line E to Lechmere - Green Line",
+                    "sch_arr_dt": "1394123580",
+                    "sch_dep_dt": "1394123580"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "70199",
+    "stop_name": "Park St Station - Green Line - E Line Berth",
+    "mode": [
+      {
+        "route_type": "0",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "880_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Westbound",
+                "trip": [
+                  {
+                    "trip_id": "21612625",
+                    "trip_name": "11:09 am from Lechmere - Green Line Inbound to Heath St Platform - Green Line E",
+                    "sch_arr_dt": "1394122620",
+                    "sch_dep_dt": "1394122620"
+                  },
+                  {
+                    "trip_id": "21612649",
+                    "trip_name": "11:17 am from Lechmere - Green Line Inbound to Heath St Platform - Green Line E",
+                    "sch_arr_dt": "1394123100",
+                    "sch_dep_dt": "1394123100"
+                  },
+                  {
+                    "trip_id": "21612684",
+                    "trip_name": "11:25 am from Lechmere - Green Line Inbound to Heath St Platform - Green Line E",
+                    "sch_arr_dt": "1394123580",
+                    "sch_dep_dt": "1394123580"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "place-pktrm",
+    "stop_name": "Park St. Station",
+    "mode": [
+      {
+        "route_type": "0",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "812_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Westbound",
+                "trip": [
+                  {
+                    "trip_id": "21611245",
+                    "trip_name": "11:17 am from Government Center Station - Green Line Westbound to Boston College Station - Green Line",
+                    "sch_arr_dt": "1394122680",
+                    "sch_dep_dt": "1394122680"
+                  },
+                  {
+                    "trip_id": "21611247",
+                    "trip_name": "11:26 am from Government Center Station - Green Line Westbound to Boston College Station - Green Line",
+                    "sch_arr_dt": "1394123220",
+                    "sch_dep_dt": "1394123220"
+                  },
+                  {
+                    "trip_id": "21611250",
+                    "trip_name": "11:34 am from Government Center Station - Green Line Westbound to Boston College Station - Green Line",
+                    "sch_arr_dt": "1394123700",
+                    "sch_dep_dt": "1394123700"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21610738",
+                    "trip_name": "10:39 am from Boston College Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394122800",
+                    "sch_dep_dt": "1394122800"
+                  },
+                  {
+                    "trip_id": "21610743",
+                    "trip_name": "10:47 am from Boston College Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394123280",
+                    "sch_dep_dt": "1394123280"
+                  },
+                  {
+                    "trip_id": "21610747",
+                    "trip_name": "10:56 am from Boston College Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394123820",
+                    "sch_dep_dt": "1394123820"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "831_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Westbound",
+                "trip": [
+                  {
+                    "trip_id": "21611145",
+                    "trip_name": "11:13 am from North Station - Green Line Inbound to Cleveland Circle Platform",
+                    "sch_arr_dt": "1394122680",
+                    "sch_dep_dt": "1394122680"
+                  },
+                  {
+                    "trip_id": "21611106",
+                    "trip_name": "11:23 am from North Station - Green Line Inbound to Cleveland Circle Platform",
+                    "sch_arr_dt": "1394123280",
+                    "sch_dep_dt": "1394123280"
+                  },
+                  {
+                    "trip_id": "21611131",
+                    "trip_name": "11:33 am from North Station - Green Line Inbound to Cleveland Circle Platform",
+                    "sch_arr_dt": "1394123880",
+                    "sch_dep_dt": "1394123880"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21611121",
+                    "trip_name": "10:50 am from Cleveland Circle Platform - Inbound to North Station - Green Line Outbound",
+                    "sch_arr_dt": "1394122920",
+                    "sch_dep_dt": "1394122920"
+                  },
+                  {
+                    "trip_id": "21611119",
+                    "trip_name": "11:00 am from Cleveland Circle Platform - Inbound to North Station - Green Line Outbound",
+                    "sch_arr_dt": "1394123520",
+                    "sch_dep_dt": "1394123520"
+                  },
+                  {
+                    "trip_id": "21611118",
+                    "trip_name": "11:10 am from Cleveland Circle Platform - Inbound to North Station - Green Line Outbound",
+                    "sch_arr_dt": "1394124120",
+                    "sch_dep_dt": "1394124120"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "852_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Westbound",
+                "trip": [
+                  {
+                    "trip_id": "21611206",
+                    "trip_name": "11:18 am from Government Center Station - Green Line Westbound to Riverside Station - Green Line",
+                    "sch_arr_dt": "1394122740",
+                    "sch_dep_dt": "1394122740"
+                  },
+                  {
+                    "trip_id": "21611204",
+                    "trip_name": "11:29 am from Government Center Station - Green Line Westbound to Riverside Station - Green Line",
+                    "sch_arr_dt": "1394123400",
+                    "sch_dep_dt": "1394123400"
+                  },
+                  {
+                    "trip_id": "21611209",
+                    "trip_name": "11:39 am from Government Center Station - Green Line Westbound to Riverside Station - Green Line",
+                    "sch_arr_dt": "1394124000",
+                    "sch_dep_dt": "1394124000"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21611180",
+                    "trip_name": "10:45 am from Riverside Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394122980",
+                    "sch_dep_dt": "1394122980"
+                  },
+                  {
+                    "trip_id": "21611181",
+                    "trip_name": "10:55 am from Riverside Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394123580",
+                    "sch_dep_dt": "1394123580"
+                  },
+                  {
+                    "trip_id": "21611182",
+                    "trip_name": "11:06 am from Riverside Station - Inbound to Government Center Station - Green Line Eastbound",
+                    "sch_arr_dt": "1394124240",
+                    "sch_dep_dt": "1394124240"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "880_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Westbound",
+                "trip": [
+                  {
+                    "trip_id": "21612625",
+                    "trip_name": "11:09 am from Lechmere - Green Line Inbound to Heath St Platform - Green Line E",
+                    "sch_arr_dt": "1394122620",
+                    "sch_dep_dt": "1394122620"
+                  },
+                  {
+                    "trip_id": "21612649",
+                    "trip_name": "11:17 am from Lechmere - Green Line Inbound to Heath St Platform - Green Line E",
+                    "sch_arr_dt": "1394123100",
+                    "sch_dep_dt": "1394123100"
+                  },
+                  {
+                    "trip_id": "21612684",
+                    "trip_name": "11:25 am from Lechmere - Green Line Inbound to Heath St Platform - Green Line E",
+                    "sch_arr_dt": "1394123580",
+                    "sch_dep_dt": "1394123580"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Eastbound",
+                "trip": [
+                  {
+                    "trip_id": "21612408",
+                    "trip_name": "10:57 am from Heath St Platform - Green Line E to Lechmere - Green Line",
+                    "sch_arr_dt": "1394122620",
+                    "sch_dep_dt": "1394122620"
+                  },
+                  {
+                    "trip_id": "21612440",
+                    "trip_name": "11:05 am from Heath St Platform - Green Line E to Lechmere - Green Line",
+                    "sch_arr_dt": "1394123100",
+                    "sch_dep_dt": "1394123100"
+                  },
+                  {
+                    "trip_id": "21612486",
+                    "trip_name": "11:13 am from Heath St Platform - Green Line E to Lechmere - Green Line",
+                    "sch_arr_dt": "1394123580",
+                    "sch_dep_dt": "1394123580"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "route_type": "1",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "931_",
+            "route_name": "Red Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Southbound",
+                "trip": [
+                  {
+                    "trip_id": "21761522",
+                    "trip_name": "11:05 am from Alewife Station Red Line to Ashmont Station - Red Line",
+                    "sch_arr_dt": "1394122980",
+                    "sch_dep_dt": "1394122980"
+                  },
+                  {
+                    "trip_id": "21761523",
+                    "trip_name": "11:19 am from Alewife Station Red Line to Ashmont Station - Red Line",
+                    "sch_arr_dt": "1394123820",
+                    "sch_dep_dt": "1394123820"
+                  },
+                  {
+                    "trip_id": "21761524",
+                    "trip_name": "11:33 am from Alewife Station Red Line to Ashmont Station - Red Line",
+                    "sch_arr_dt": "1394124660",
+                    "sch_dep_dt": "1394124660"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Northbound",
+                "trip": [
+                  {
+                    "trip_id": "21761480",
+                    "trip_name": "11:02 am from Ashmont Station Red Line Inbound to Alewife Station Red Line",
+                    "sch_arr_dt": "1394122920",
+                    "sch_dep_dt": "1394122920"
+                  },
+                  {
+                    "trip_id": "21761465",
+                    "trip_name": "11:16 am from Ashmont Station Red Line Inbound to Alewife Station Red Line",
+                    "sch_arr_dt": "1394123760",
+                    "sch_dep_dt": "1394123760"
+                  },
+                  {
+                    "trip_id": "21761493",
+                    "trip_name": "11:30 am from Ashmont Station Red Line Inbound to Alewife Station Red Line",
+                    "sch_arr_dt": "1394124600",
+                    "sch_dep_dt": "1394124600"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "933_",
+            "route_name": "Red Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Southbound",
+                "trip": [
+                  {
+                    "trip_id": "21761529",
+                    "trip_name": "11:12 am from Alewife Station Red Line to Braintree Station Red Line Platform",
+                    "sch_arr_dt": "1394123400",
+                    "sch_dep_dt": "1394123400"
+                  },
+                  {
+                    "trip_id": "21761530",
+                    "trip_name": "11:26 am from Alewife Station Red Line to Braintree Station Red Line Platform",
+                    "sch_arr_dt": "1394124240",
+                    "sch_dep_dt": "1394124240"
+                  },
+                  {
+                    "trip_id": "21761531",
+                    "trip_name": "11:40 am from Alewife Station Red Line to Braintree Station Red Line Platform",
+                    "sch_arr_dt": "1394125080",
+                    "sch_dep_dt": "1394125080"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Northbound",
+                "trip": [
+                  {
+                    "trip_id": "21761498",
+                    "trip_name": "10:59 am from Braintree Station Red Line Platform to Alewife Station Red Line",
+                    "sch_arr_dt": "1394123340",
+                    "sch_dep_dt": "1394123340"
+                  },
+                  {
+                    "trip_id": "21761499",
+                    "trip_name": "11:13 am from Braintree Station Red Line Platform to Alewife Station Red Line",
+                    "sch_arr_dt": "1394124180",
+                    "sch_dep_dt": "1394124180"
+                  },
+                  {
+                    "trip_id": "21761500",
+                    "trip_name": "11:27 am from Braintree Station Red Line Platform to Alewife Station Red Line",
+                    "sch_arr_dt": "1394125020",
+                    "sch_dep_dt": "1394125020"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "43",
+            "route_name": "43",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "22010730",
+                    "trip_name": "11:18 am from Tremont St opp Winter St to Ruggles Station - Lane 2",
+                    "sch_arr_dt": "1394122680",
+                    "sch_dep_dt": "1394122680"
+                  },
+                  {
+                    "trip_id": "22010664",
+                    "trip_name": "11:38 am from Tremont St opp Winter St to Ruggles Station - Lane 2",
+                    "sch_arr_dt": "1394123880",
+                    "sch_dep_dt": "1394123880"
+                  },
+                  {
+                    "trip_id": "22010735",
+                    "trip_name": "11:58 am from Tremont St opp Winter St to Ruggles Station - Lane 2",
+                    "sch_arr_dt": "1394125080",
+                    "sch_dep_dt": "1394125080"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "22010716",
+                    "trip_name": "11:00 am from Ruggles Station - Lane 2 to Tremont St opp Winter St",
+                    "sch_arr_dt": "1394122620",
+                    "sch_dep_dt": "1394122620"
+                  },
+                  {
+                    "trip_id": "22010692",
+                    "trip_name": "11:20 am from Ruggles Station - Lane 2 to Tremont St opp Winter St",
+                    "sch_arr_dt": "1394123880",
+                    "sch_dep_dt": "1394123880"
+                  },
+                  {
+                    "trip_id": "22010703",
+                    "trip_name": "11:40 am from Ruggles Station - Lane 2 to Tremont St opp Winter St",
+                    "sch_arr_dt": "1394125080",
+                    "sch_dep_dt": "1394125080"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "55",
+            "route_name": "55",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "22008211",
+                    "trip_name": "12:00 pm from Tremont St opp Winter St to Queensberry St @ Jersey St",
+                    "sch_arr_dt": "1394125200",
+                    "sch_dep_dt": "1394125200"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "22008210",
+                    "trip_name": "11:30 am from Queensberry St @ Jersey St to Tremont St opp Winter St",
+                    "sch_arr_dt": "1394124540",
+                    "sch_dep_dt": "1394124540"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "10000",
+    "stop_name": "Tremont St opp Winter St",
+    "mode": [
+      {
+        "route_type": "3",
+        "mode_name": "Bus",
+        "route": [
+          {
+            "route_id": "43",
+            "route_name": "43",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "22010730",
+                    "trip_name": "11:18 am from Tremont St opp Winter St to Ruggles Station - Lane 2",
+                    "sch_arr_dt": "1394122680",
+                    "sch_dep_dt": "1394122680"
+                  },
+                  {
+                    "trip_id": "22010664",
+                    "trip_name": "11:38 am from Tremont St opp Winter St to Ruggles Station - Lane 2",
+                    "sch_arr_dt": "1394123880",
+                    "sch_dep_dt": "1394123880"
+                  },
+                  {
+                    "trip_id": "22010735",
+                    "trip_name": "11:58 am from Tremont St opp Winter St to Ruggles Station - Lane 2",
+                    "sch_arr_dt": "1394125080",
+                    "sch_dep_dt": "1394125080"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "22010716",
+                    "trip_name": "11:00 am from Ruggles Station - Lane 2 to Tremont St opp Winter St",
+                    "sch_arr_dt": "1394122620",
+                    "sch_dep_dt": "1394122620"
+                  },
+                  {
+                    "trip_id": "22010692",
+                    "trip_name": "11:20 am from Ruggles Station - Lane 2 to Tremont St opp Winter St",
+                    "sch_arr_dt": "1394123880",
+                    "sch_dep_dt": "1394123880"
+                  },
+                  {
+                    "trip_id": "22010703",
+                    "trip_name": "11:40 am from Ruggles Station - Lane 2 to Tremont St opp Winter St",
+                    "sch_arr_dt": "1394125080",
+                    "sch_dep_dt": "1394125080"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "55",
+            "route_name": "55",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "22008211",
+                    "trip_name": "12:00 pm from Tremont St opp Winter St to Queensberry St @ Jersey St",
+                    "sch_arr_dt": "1394125200",
+                    "sch_dep_dt": "1394125200"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "22008210",
+                    "trip_name": "11:30 am from Queensberry St @ Jersey St to Tremont St opp Winter St",
+                    "sch_arr_dt": "1394124540",
+                    "sch_dep_dt": "1394124540"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "70198",
+    "stop_name": "Park St Station - Green Line - D Branch Berth",
+    "mode": [
+      {
+        "route_type": "0",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "852_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Westbound",
+                "trip": [
+                  {
+                    "trip_id": "21611206",
+                    "trip_name": "11:18 am from Government Center Station - Green Line Westbound to Riverside Station - Green Line",
+                    "sch_arr_dt": "1394122740",
+                    "sch_dep_dt": "1394122740"
+                  },
+                  {
+                    "trip_id": "21611204",
+                    "trip_name": "11:29 am from Government Center Station - Green Line Westbound to Riverside Station - Green Line",
+                    "sch_arr_dt": "1394123400",
+                    "sch_dep_dt": "1394123400"
+                  },
+                  {
+                    "trip_id": "21611209",
+                    "trip_name": "11:39 am from Government Center Station - Green Line Westbound to Riverside Station - Green Line",
+                    "sch_arr_dt": "1394124000",
+                    "sch_dep_dt": "1394124000"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "70076",
+    "stop_name": "Park St Station - to Alewife",
+    "mode": [
+      {
+        "route_type": "1",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "931_",
+            "route_name": "Red Line",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Northbound",
+                "trip": [
+                  {
+                    "trip_id": "21761480",
+                    "trip_name": "11:02 am from Ashmont Station Red Line Inbound to Alewife Station Red Line",
+                    "sch_arr_dt": "1394122920",
+                    "sch_dep_dt": "1394122920"
+                  },
+                  {
+                    "trip_id": "21761465",
+                    "trip_name": "11:16 am from Ashmont Station Red Line Inbound to Alewife Station Red Line",
+                    "sch_arr_dt": "1394123760",
+                    "sch_dep_dt": "1394123760"
+                  },
+                  {
+                    "trip_id": "21761493",
+                    "trip_name": "11:30 am from Ashmont Station Red Line Inbound to Alewife Station Red Line",
+                    "sch_arr_dt": "1394124600",
+                    "sch_dep_dt": "1394124600"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "933_",
+            "route_name": "Red Line",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Northbound",
+                "trip": [
+                  {
+                    "trip_id": "21761498",
+                    "trip_name": "10:59 am from Braintree Station Red Line Platform to Alewife Station Red Line",
+                    "sch_arr_dt": "1394123340",
+                    "sch_dep_dt": "1394123340"
+                  },
+                  {
+                    "trip_id": "21761499",
+                    "trip_name": "11:13 am from Braintree Station Red Line Platform to Alewife Station Red Line",
+                    "sch_arr_dt": "1394124180",
+                    "sch_dep_dt": "1394124180"
+                  },
+                  {
+                    "trip_id": "21761500",
+                    "trip_name": "11:27 am from Braintree Station Red Line Platform to Alewife Station Red Line",
+                    "sch_arr_dt": "1394125020",
+                    "sch_dep_dt": "1394125020"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "70075",
+    "stop_name": "Park St Station - to Ashmont/Braintree",
+    "mode": [
+      {
+        "route_type": "1",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "931_",
+            "route_name": "Red Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Southbound",
+                "trip": [
+                  {
+                    "trip_id": "21761522",
+                    "trip_name": "11:05 am from Alewife Station Red Line to Ashmont Station - Red Line",
+                    "sch_arr_dt": "1394122980",
+                    "sch_dep_dt": "1394122980"
+                  },
+                  {
+                    "trip_id": "21761523",
+                    "trip_name": "11:19 am from Alewife Station Red Line to Ashmont Station - Red Line",
+                    "sch_arr_dt": "1394123820",
+                    "sch_dep_dt": "1394123820"
+                  },
+                  {
+                    "trip_id": "21761524",
+                    "trip_name": "11:33 am from Alewife Station Red Line to Ashmont Station - Red Line",
+                    "sch_arr_dt": "1394124660",
+                    "sch_dep_dt": "1394124660"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "933_",
+            "route_name": "Red Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Southbound",
+                "trip": [
+                  {
+                    "trip_id": "21761529",
+                    "trip_name": "11:12 am from Alewife Station Red Line to Braintree Station Red Line Platform",
+                    "sch_arr_dt": "1394123400",
+                    "sch_dep_dt": "1394123400"
+                  },
+                  {
+                    "trip_id": "21761530",
+                    "trip_name": "11:26 am from Alewife Station Red Line to Braintree Station Red Line Platform",
+                    "sch_arr_dt": "1394124240",
+                    "sch_dep_dt": "1394124240"
+                  },
+                  {
+                    "trip_id": "21761531",
+                    "trip_name": "11:40 am from Alewife Station Red Line to Braintree Station Red Line Platform",
+                    "sch_arr_dt": "1394125080",
+                    "sch_dep_dt": "1394125080"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "70197",
+    "stop_name": "Park St Station - Green Line - C Branch Berth",
+    "mode": [
+      {
+        "route_type": "0",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "831_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Westbound",
+                "trip": [
+                  {
+                    "trip_id": "21611145",
+                    "trip_name": "11:13 am from North Station - Green Line Inbound to Cleveland Circle Platform",
+                    "sch_arr_dt": "1394122680",
+                    "sch_dep_dt": "1394122680"
+                  },
+                  {
+                    "trip_id": "21611106",
+                    "trip_name": "11:23 am from North Station - Green Line Inbound to Cleveland Circle Platform",
+                    "sch_arr_dt": "1394123280",
+                    "sch_dep_dt": "1394123280"
+                  },
+                  {
+                    "trip_id": "21611131",
+                    "trip_name": "11:33 am from North Station - Green Line Inbound to Cleveland Circle Platform",
+                    "sch_arr_dt": "1394123880",
+                    "sch_dep_dt": "1394123880"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "70196",
+    "stop_name": "Park St Station - Green Line - B Berth",
+    "mode": [
+      {
+        "route_type": "0",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "812_",
+            "route_name": "Green Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Westbound",
+                "trip": [
+                  {
+                    "trip_id": "21611245",
+                    "trip_name": "11:17 am from Government Center Station - Green Line Westbound to Boston College Station - Green Line",
+                    "sch_arr_dt": "1394122680",
+                    "sch_dep_dt": "1394122680"
+                  },
+                  {
+                    "trip_id": "21611247",
+                    "trip_name": "11:26 am from Government Center Station - Green Line Westbound to Boston College Station - Green Line",
+                    "sch_arr_dt": "1394123220",
+                    "sch_dep_dt": "1394123220"
+                  },
+                  {
+                    "trip_id": "21611250",
+                    "trip_name": "11:34 am from Government Center Station - Green Line Westbound to Boston College Station - Green Line",
+                    "sch_arr_dt": "1394123700",
+                    "sch_dep_dt": "1394123700"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "70020",
+    "stop_name": "Downtown Crossing - to Forest Hills",
+    "mode": [
+      {
+        "route_type": "1",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "903_",
+            "route_name": "Orange Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21800068",
+                    "trip_name": "11:04 am from Oak Grove Station - Orange Line to Forest Hills Orange Line",
+                    "sch_arr_dt": "1394122800",
+                    "sch_dep_dt": "1394122800"
+                  },
+                  {
+                    "trip_id": "21800080",
+                    "trip_name": "11:13 am from Oak Grove Station - Orange Line to Forest Hills Orange Line",
+                    "sch_arr_dt": "1394123340",
+                    "sch_dep_dt": "1394123340"
+                  },
+                  {
+                    "trip_id": "21800094",
+                    "trip_name": "11:21 am from Oak Grove Station - Orange Line to Forest Hills Orange Line",
+                    "sch_arr_dt": "1394123820",
+                    "sch_dep_dt": "1394123820"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "70021",
+    "stop_name": "Downtown Crossing - to Oak Grove",
+    "mode": [
+      {
+        "route_type": "1",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "903_",
+            "route_name": "Orange Line",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21800138",
+                    "trip_name": "11:04 am from Forest Hills Orange Line to Oak Grove Station - Orange Line",
+                    "sch_arr_dt": "1394122980",
+                    "sch_dep_dt": "1394122980"
+                  },
+                  {
+                    "trip_id": "21800005",
+                    "trip_name": "11:13 am from Forest Hills Orange Line to Oak Grove Station - Orange Line",
+                    "sch_arr_dt": "1394123520",
+                    "sch_dep_dt": "1394123520"
+                  },
+                  {
+                    "trip_id": "21800017",
+                    "trip_name": "11:21 am from Forest Hills Orange Line to Oak Grove Station - Orange Line",
+                    "sch_arr_dt": "1394124000",
+                    "sch_dep_dt": "1394124000"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "70078",
+    "stop_name": "Downtown Crossing - to Alewife",
+    "mode": [
+      {
+        "route_type": "1",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "931_",
+            "route_name": "Red Line",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Northbound",
+                "trip": [
+                  {
+                    "trip_id": "21761480",
+                    "trip_name": "11:02 am from Ashmont Station Red Line Inbound to Alewife Station Red Line",
+                    "sch_arr_dt": "1394122800",
+                    "sch_dep_dt": "1394122800"
+                  },
+                  {
+                    "trip_id": "21761465",
+                    "trip_name": "11:16 am from Ashmont Station Red Line Inbound to Alewife Station Red Line",
+                    "sch_arr_dt": "1394123640",
+                    "sch_dep_dt": "1394123640"
+                  },
+                  {
+                    "trip_id": "21761493",
+                    "trip_name": "11:30 am from Ashmont Station Red Line Inbound to Alewife Station Red Line",
+                    "sch_arr_dt": "1394124480",
+                    "sch_dep_dt": "1394124480"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "933_",
+            "route_name": "Red Line",
+            "direction": [
+              {
+                "direction_id": "1",
+                "direction_name": "Northbound",
+                "trip": [
+                  {
+                    "trip_id": "21761498",
+                    "trip_name": "10:59 am from Braintree Station Red Line Platform to Alewife Station Red Line",
+                    "sch_arr_dt": "1394123220",
+                    "sch_dep_dt": "1394123220"
+                  },
+                  {
+                    "trip_id": "21761499",
+                    "trip_name": "11:13 am from Braintree Station Red Line Platform to Alewife Station Red Line",
+                    "sch_arr_dt": "1394124060",
+                    "sch_dep_dt": "1394124060"
+                  },
+                  {
+                    "trip_id": "21761500",
+                    "trip_name": "11:27 am from Braintree Station Red Line Platform to Alewife Station Red Line",
+                    "sch_arr_dt": "1394124900",
+                    "sch_dep_dt": "1394124900"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "place-dwnxg",
+    "stop_name": "Downtown Crossing Station",
+    "mode": [
+      {
+        "route_type": "1",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "903_",
+            "route_name": "Orange Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Outbound",
+                "trip": [
+                  {
+                    "trip_id": "21800068",
+                    "trip_name": "11:04 am from Oak Grove Station - Orange Line to Forest Hills Orange Line",
+                    "sch_arr_dt": "1394122800",
+                    "sch_dep_dt": "1394122800"
+                  },
+                  {
+                    "trip_id": "21800080",
+                    "trip_name": "11:13 am from Oak Grove Station - Orange Line to Forest Hills Orange Line",
+                    "sch_arr_dt": "1394123340",
+                    "sch_dep_dt": "1394123340"
+                  },
+                  {
+                    "trip_id": "21800094",
+                    "trip_name": "11:21 am from Oak Grove Station - Orange Line to Forest Hills Orange Line",
+                    "sch_arr_dt": "1394123820",
+                    "sch_dep_dt": "1394123820"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Inbound",
+                "trip": [
+                  {
+                    "trip_id": "21800138",
+                    "trip_name": "11:04 am from Forest Hills Orange Line to Oak Grove Station - Orange Line",
+                    "sch_arr_dt": "1394122980",
+                    "sch_dep_dt": "1394122980"
+                  },
+                  {
+                    "trip_id": "21800005",
+                    "trip_name": "11:13 am from Forest Hills Orange Line to Oak Grove Station - Orange Line",
+                    "sch_arr_dt": "1394123520",
+                    "sch_dep_dt": "1394123520"
+                  },
+                  {
+                    "trip_id": "21800017",
+                    "trip_name": "11:21 am from Forest Hills Orange Line to Oak Grove Station - Orange Line",
+                    "sch_arr_dt": "1394124000",
+                    "sch_dep_dt": "1394124000"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "931_",
+            "route_name": "Red Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Southbound",
+                "trip": [
+                  {
+                    "trip_id": "21761522",
+                    "trip_name": "11:05 am from Alewife Station Red Line to Ashmont Station - Red Line",
+                    "sch_arr_dt": "1394123100",
+                    "sch_dep_dt": "1394123100"
+                  },
+                  {
+                    "trip_id": "21761523",
+                    "trip_name": "11:19 am from Alewife Station Red Line to Ashmont Station - Red Line",
+                    "sch_arr_dt": "1394123940",
+                    "sch_dep_dt": "1394123940"
+                  },
+                  {
+                    "trip_id": "21761524",
+                    "trip_name": "11:33 am from Alewife Station Red Line to Ashmont Station - Red Line",
+                    "sch_arr_dt": "1394124780",
+                    "sch_dep_dt": "1394124780"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Northbound",
+                "trip": [
+                  {
+                    "trip_id": "21761480",
+                    "trip_name": "11:02 am from Ashmont Station Red Line Inbound to Alewife Station Red Line",
+                    "sch_arr_dt": "1394122800",
+                    "sch_dep_dt": "1394122800"
+                  },
+                  {
+                    "trip_id": "21761465",
+                    "trip_name": "11:16 am from Ashmont Station Red Line Inbound to Alewife Station Red Line",
+                    "sch_arr_dt": "1394123640",
+                    "sch_dep_dt": "1394123640"
+                  },
+                  {
+                    "trip_id": "21761493",
+                    "trip_name": "11:30 am from Ashmont Station Red Line Inbound to Alewife Station Red Line",
+                    "sch_arr_dt": "1394124480",
+                    "sch_dep_dt": "1394124480"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "933_",
+            "route_name": "Red Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Southbound",
+                "trip": [
+                  {
+                    "trip_id": "21761278",
+                    "trip_name": "10:58 am from Alewife Station Red Line to Braintree Station Red Line Platform",
+                    "sch_arr_dt": "1394122680",
+                    "sch_dep_dt": "1394122680"
+                  },
+                  {
+                    "trip_id": "21761529",
+                    "trip_name": "11:12 am from Alewife Station Red Line to Braintree Station Red Line Platform",
+                    "sch_arr_dt": "1394123520",
+                    "sch_dep_dt": "1394123520"
+                  },
+                  {
+                    "trip_id": "21761530",
+                    "trip_name": "11:26 am from Alewife Station Red Line to Braintree Station Red Line Platform",
+                    "sch_arr_dt": "1394124360",
+                    "sch_dep_dt": "1394124360"
+                  }
+                ]
+              },
+              {
+                "direction_id": "1",
+                "direction_name": "Northbound",
+                "trip": [
+                  {
+                    "trip_id": "21761498",
+                    "trip_name": "10:59 am from Braintree Station Red Line Platform to Alewife Station Red Line",
+                    "sch_arr_dt": "1394123220",
+                    "sch_dep_dt": "1394123220"
+                  },
+                  {
+                    "trip_id": "21761499",
+                    "trip_name": "11:13 am from Braintree Station Red Line Platform to Alewife Station Red Line",
+                    "sch_arr_dt": "1394124060",
+                    "sch_dep_dt": "1394124060"
+                  },
+                  {
+                    "trip_id": "21761500",
+                    "trip_name": "11:27 am from Braintree Station Red Line Platform to Alewife Station Red Line",
+                    "sch_arr_dt": "1394124900",
+                    "sch_dep_dt": "1394124900"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "stop_id": "70077",
+    "stop_name": "Downtown Crossing - to Ashmont/Braintree",
+    "mode": [
+      {
+        "route_type": "1",
+        "mode_name": "Subway",
+        "route": [
+          {
+            "route_id": "931_",
+            "route_name": "Red Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Southbound",
+                "trip": [
+                  {
+                    "trip_id": "21761522",
+                    "trip_name": "11:05 am from Alewife Station Red Line to Ashmont Station - Red Line",
+                    "sch_arr_dt": "1394123100",
+                    "sch_dep_dt": "1394123100"
+                  },
+                  {
+                    "trip_id": "21761523",
+                    "trip_name": "11:19 am from Alewife Station Red Line to Ashmont Station - Red Line",
+                    "sch_arr_dt": "1394123940",
+                    "sch_dep_dt": "1394123940"
+                  },
+                  {
+                    "trip_id": "21761524",
+                    "trip_name": "11:33 am from Alewife Station Red Line to Ashmont Station - Red Line",
+                    "sch_arr_dt": "1394124780",
+                    "sch_dep_dt": "1394124780"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "route_id": "933_",
+            "route_name": "Red Line",
+            "direction": [
+              {
+                "direction_id": "0",
+                "direction_name": "Southbound",
+                "trip": [
+                  {
+                    "trip_id": "21761278",
+                    "trip_name": "10:58 am from Alewife Station Red Line to Braintree Station Red Line Platform",
+                    "sch_arr_dt": "1394122680",
+                    "sch_dep_dt": "1394122680"
+                  },
+                  {
+                    "trip_id": "21761529",
+                    "trip_name": "11:12 am from Alewife Station Red Line to Braintree Station Red Line Platform",
+                    "sch_arr_dt": "1394123520",
+                    "sch_dep_dt": "1394123520"
+                  },
+                  {
+                    "trip_id": "21761530",
+                    "trip_name": "11:26 am from Alewife Station Red Line to Braintree Station Red Line Platform",
+                    "sch_arr_dt": "1394124360",
+                    "sch_dep_dt": "1394124360"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+NEW DATA from @results
+
+
+
+
+
+
+
+
+[
+  {
+    "stop_id": "49001",
+    "stop_name": "Temple Pl @ Washington St",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3553848266602",
+    "stop_lon": "-71.0622100830078",
+    "distance": "0.0331161171197891"
+  },
+  {
+    "stop_id": "70200",
+    "stop_name": "Park St Station - Green Line Eastbound",
+    "parent_station": "place-pktrm",
+    "parent_station_name": "Park St. Station",
+    "stop_lat": "42.3563957214355",
+    "stop_lon": "-71.0624237060547",
+    "distance": "0.0405826829373837"
+  },
+  {
+    "stop_id": "70199",
+    "stop_name": "Park St Station - Green Line - E Line Berth",
+    "parent_station": "place-pktrm",
+    "parent_station_name": "Park St. Station",
+    "stop_lat": "42.3563957214355",
+    "stop_lon": "-71.0624237060547",
+    "distance": "0.0405826829373837"
+  },
+  {
+    "stop_id": "place-pktrm",
+    "stop_name": "Park St. Station",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3563957214355",
+    "stop_lon": "-71.0624237060547",
+    "distance": "0.0405826829373837"
+  },
+  {
+    "stop_id": "10000",
+    "stop_name": "Tremont St opp Winter St",
+    "parent_station": "place-pktrm",
+    "parent_station_name": "Park St. Station",
+    "stop_lat": "42.3563957214355",
+    "stop_lon": "-71.0624237060547",
+    "distance": "0.0405826829373837"
+  },
+  {
+    "stop_id": "70198",
+    "stop_name": "Park St Station - Green Line - D Branch Berth",
+    "parent_station": "place-pktrm",
+    "parent_station_name": "Park St. Station",
+    "stop_lat": "42.3563957214355",
+    "stop_lon": "-71.0624237060547",
+    "distance": "0.0405826829373837"
+  },
+  {
+    "stop_id": "70076",
+    "stop_name": "Park St Station - to Alewife",
+    "parent_station": "place-pktrm",
+    "parent_station_name": "Park St. Station",
+    "stop_lat": "42.3563957214355",
+    "stop_lon": "-71.0624237060547",
+    "distance": "0.0405826829373837"
+  },
+  {
+    "stop_id": "70075",
+    "stop_name": "Park St Station - to Ashmont/Braintree",
+    "parent_station": "place-pktrm",
+    "parent_station_name": "Park St. Station",
+    "stop_lat": "42.3563957214355",
+    "stop_lon": "-71.0624237060547",
+    "distance": "0.0405826829373837"
+  },
+  {
+    "stop_id": "70197",
+    "stop_name": "Park St Station - Green Line - C Branch Berth",
+    "parent_station": "place-pktrm",
+    "parent_station_name": "Park St. Station",
+    "stop_lat": "42.3563957214355",
+    "stop_lon": "-71.0624237060547",
+    "distance": "0.0405826829373837"
+  },
+  {
+    "stop_id": "70196",
+    "stop_name": "Park St Station - Green Line - B Berth",
+    "parent_station": "place-pktrm",
+    "parent_station_name": "Park St. Station",
+    "stop_lat": "42.3563957214355",
+    "stop_lon": "-71.0624237060547",
+    "distance": "0.0405826829373837"
+  },
+  {
+    "stop_id": "70020",
+    "stop_name": "Downtown Crossing - to Forest Hills",
+    "parent_station": "place-dwnxg",
+    "parent_station_name": "Downtown Crossing Station",
+    "stop_lat": "42.3555183410645",
+    "stop_lon": "-71.0602264404297",
+    "distance": "0.0986022725701332"
+  },
+  {
+    "stop_id": "70021",
+    "stop_name": "Downtown Crossing - to Oak Grove",
+    "parent_station": "place-dwnxg",
+    "parent_station_name": "Downtown Crossing Station",
+    "stop_lat": "42.3555183410645",
+    "stop_lon": "-71.0602264404297",
+    "distance": "0.0986022725701332"
+  },
+  {
+    "stop_id": "70078",
+    "stop_name": "Downtown Crossing - to Alewife",
+    "parent_station": "place-dwnxg",
+    "parent_station_name": "Downtown Crossing Station",
+    "stop_lat": "42.3555183410645",
+    "stop_lon": "-71.0602264404297",
+    "distance": "0.0986022725701332"
+  },
+  {
+    "stop_id": "place-dwnxg",
+    "stop_name": "Downtown Crossing Station",
+    "parent_station": "",
+    "parent_station_name": "",
+    "stop_lat": "42.3555183410645",
+    "stop_lon": "-71.0602264404297",
+    "distance": "0.0986022725701332"
+  },
+  {
+    "stop_id": "70077",
+    "stop_name": "Downtown Crossing - to Ashmont/Braintree",
+    "parent_station": "place-dwnxg",
+    "parent_station_name": "Downtown Crossing Station",
+    "stop_lat": "42.3555183410645",
+    "stop_lon": "-71.0602264404297",
+    "distance": "0.0986022725701332"
+  }
+]

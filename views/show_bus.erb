@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Basic HTML Page</title>
+<script  src="jquery.js"></script>
+  </head>
+  <body>
+ <table>
+    <% @results.each do |stop| %>
+    <tr>
+    <td>
+      <%= stop["stop_id"]    %>
+    </td>
+      <td>
+      <%=  stop["distance"]  %>
+    </td>
+    </tr>
+    <% end %>
+  </table>
+
+   <table>
+    <% @stops.each do |stop| %>
+    <tr>
+    <td>
+      <%= stop["stop_id"]    %>
+    </td>
+      <td>
+      <%=  stop["distance"]  %>
+    </td>
+    </tr>
+    <% end %>
+  </table>
+  </body>
+  </html>
