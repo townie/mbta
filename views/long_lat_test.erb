@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Bus</title>
+    <script  src="jquery.js"></script>
+  </head>
+
+  <body>
+    <h1>Get Location</h1>
+
+
+
+<div id="long"> <p>long</p> </div>
+<div id="lat"> <p>Lat</p></div>
+
+
+
+  <h3>For closest location </h3>
+
+  <h4> 42.380830, -71.092507 </h4>
+
+   <form action="/closeststop" method = "post">
+    <input type="text" name="long" id="long" value="42.380830"/>
+    <input type="text" name="lat" id="lat" value="-71.092507" />
+    <input type="submit" name="submit" />
+  </form>
+
+    <h4> 42.426926, -71.079908</h4>
+
+   <form action="/closeststop" method = "post">
+    <input type="text" name="long" id="long" value="42.426926"/>
+    <input type="text" name="lat" id="lat" value="-71.079908" />
+    <input type="submit" name="submit" />
+  </form>
+
+
+  </body>
+</html>
