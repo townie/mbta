@@ -1,9 +1,13 @@
 require 'sinatra'
 require 'shotgun'
-
+require 'pry'
 require 'net/http'
 require 'json'
 
+get '/ll' do
+
+  erb :long_lat_test
+end
 
 
 get '/' do
@@ -14,6 +18,25 @@ end
 get '/test' do
 
   erb :test
+end
+
+post '/closeststop' do
+  uri = URI("http://realtime.mbta.com/developer/api/v1/stopsbylocation?api_key=U1N8k74hBkK874ory82gZg&lat=#{params[:long]}&lon=#{params[:lat]}")
+  req = Net::HTTP::Get.new(uri)
+  req['Accept'] = 'application/json'
+
+  res = Net::HTTP.start(uri.hostname, uri.port) do |http|
+    http.request(req)
+  end
+
+  results = JSON.parse(res.body)
+  @results = results["stop"]
+  @stops = []
+  @results.each do |stop|
+      @stops << stop["stop_id"]
+ end
+
+  erb :closeststop
 end
 
 
